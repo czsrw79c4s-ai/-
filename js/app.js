@@ -1,2 +1,3 @@
 import { pages } from "./data.js";
-console.log(pages);
+const page = pages[0];
+console.log(page);
